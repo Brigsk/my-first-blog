@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '0psmwtcp8vjd3rm(f+*jh__r-z%$r+lasz(s&$*w^t%0swmp$('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'brigsk.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'brigsku.pythonanywhere.com']
 
 
 # Application definition
